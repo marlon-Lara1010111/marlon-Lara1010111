@@ -50,7 +50,7 @@ Tenho experiência na construção de APIs seguras e eficientes, unindo a agilid
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/marlon-l-2b1977304/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-l-2b1977304/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marloww11/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marlonlara4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marloww10)
